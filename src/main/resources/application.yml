@@ -1,0 +1,6 @@
+analytics:
+  version: 1
+  scheme: https
+  host: www.google-analytics.com
+  path: /collect
+  tracking: UA-XXXXXX-Y
